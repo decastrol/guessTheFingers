@@ -88,8 +88,8 @@
 				A3B7FE331A2D708000667E74 /* ViewController.swift */,
 				A3FB98201A3A526000F98906 /* computerViewController.swift */,
 				A3B7FE381A2D708000667E74 /* Images.xcassets */,
-				A3B7FE3A1A2D708000667E74 /* LaunchScreen.xib */,
 				A38718821A36799F00C9C055 /* Main.storyboard */,
+				A3B7FE3A1A2D708000667E74 /* LaunchScreen.xib */,
 				A3FB98221A3A52B900F98906 /* Guess the Fingers-Bridging-Header.h */,
 				A3B7FE2F1A2D708000667E74 /* Supporting Files */,
 			);
